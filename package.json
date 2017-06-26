@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AnabelGR/ping-pong-js.git"
+    "type": "",
+    "url": ""
   },
   "author": "",
   "license": "ISC",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AnabelGR/ping-pong-js#readme",
   "devDependencies": {
+    "bower-files": "^4.0.0",
     "browserify": "^14.4.0",
     "del": "^3.0.0",
     "gulp": "^3.9.1",
